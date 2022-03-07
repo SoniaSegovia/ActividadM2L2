@@ -14,10 +14,12 @@
             Estructuras de Control
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="estructura1.php">Ejercicio 1</a></li>
-            <li><a class="dropdown-item" href="estructura2.php">Ejercicio 2</a></li>
-            <li><a class="dropdown-item" href="estructura3.php">Ejercicio 3</a></li>
-            <li><a class="dropdown-item" href="estructura4.php">Ejercicio 4</a></li>
+            <li><a class="dropdown-item" href="ejercicio1.php">Ejercicio 1</a></li>
+            <li><a class="dropdown-item" href="ejercicio2.php">Ejercicio 2</a></li>
+            <li><a class="dropdown-item" href="ejercicio3.php">Ejercicio 3</a></li>
+            <li><a class="dropdown-item" href="ejercicio4.php">Ejercicio 4</a></li>
+            <li><a class="dropdown-item" href="ejercicio5.php">Ejercicio 5</a></li>
+
 
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
